@@ -25,4 +25,16 @@ let booleanIsLogged=Boolean(isLogged)
 
 let sumNumber=33
 let stringNumber=String(sumNumber)
-console.log( typeof(stringNumber));
+// console.log( typeof(stringNumber));
+
+
+// -------------------------------------------------------------------------
+
+// console.log(+true);
+// console.log(+"");
+
+let num1 = num2=num3=2+2
+let gameCounter = 100
+gameCounter++;
+++gameCounter;
+console.log(gameCounter);
